@@ -1,0 +1,5 @@
+node_modules
+pmpn-lock.yaml
+pocketbase.exe
+pb_data
+pb_migrations

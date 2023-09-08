@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global CSS */
+/* body {
+  @apply bg-gradient-to-t;
+  @apply from-blue-400;
+  @apply to-teal-100;
+  @apply min-h-screen;
+  @apply min-w-min;
+  @apply p-0;
+} */
